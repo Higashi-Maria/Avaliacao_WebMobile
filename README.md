@@ -1,2 +1,2 @@
 # Avalia-o_WebMobile
-Aplicação para atividade avaliativqa referente à matéria de Desenvolvimento Web Mobile
+Aplicação para atividade avaliativa referente à matéria de Desenvolvimento Web Mobile
